@@ -1,0 +1,36 @@
+{
+	"id": -1,
+	"name": "Duck in a bag",
+	"description": "Little art of a duck in a bag from the offline community of twitch streamer ZakvielChannel\nArt idea: justduckkk and mejkiz",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/popout/zakvielchannel/chat?popout="
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-1370,
+				101
+			],
+			[
+				-1354,
+				101
+			],
+			[
+				-1354,
+				122
+			],
+			[
+				-1370,
+				121
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-1362,
+			112
+		]
+	}
+}
